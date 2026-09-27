@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you reference or use this paper, please cite it as below."
+title: "Exploring the Integration of Edge AI into 6G Networks: Implications for Network Efficiency, Security, and Privacy"
+authors:
+  - family-names: "Rukon"
+    given-names: "Md Muzibur Rahman"
+  - family-names: "Hoq"
+    given-names: "Ridma"
+  - family-names: "Hasnat"
+    given-names: "Mehek"
+preferred-citation:
+  type: conference-paper
+  title: "Exploring the Integration of Edge AI into 6G Networks: Implications for Network Efficiency, Security, and Privacy"
+  authors:
+    - family-names: "Rukon"
+      given-names: "Md Muzibur Rahman"
+    - family-names: "Hoq"
+      given-names: "Ridma"
+    - family-names: "Hasnat"
+      given-names: "Mehek"
+  collection-title: "2025 IEEE International Carnahan Conference on Security Technology (ICCST)"
+  year: 2025
+  publisher:
+    name: "IEEE"
